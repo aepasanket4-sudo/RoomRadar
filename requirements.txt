@@ -9,7 +9,6 @@ cffi==2.0.0
 charset-normalizer==3.4.3
 click==8.2.1
 colorama==0.4.6
-comtypes==1.4.13
 cryptography==46.0.3
 decorator==5.2.1
 et_xmlfile==2.0.0
@@ -57,14 +56,12 @@ pydantic_core==2.33.2
 pydub==0.25.1
 Pygments==2.19.2
 pypdfium2==5.0.0
-pypiwin32==223
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.1
 python-multipart==0.0.20
 python-pptx==1.0.2
 pyttsx3==2.99
 pytz==2025.2
-pywin32==311
 PyYAML==6.0.2
 regex==2025.10.23
 requests==2.32.4
